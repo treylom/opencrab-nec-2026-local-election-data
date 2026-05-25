@@ -1,0 +1,23 @@
+{
+  "generated_at": "2026-05-25T22:54:15.400Z",
+  "source_site": "https://policy.nec.go.kr/",
+  "election_date": "2026-06-03",
+  "voter_area": "운정2동",
+  "district_mapping_source": "https://gg.nec.go.kr/gg/main/contents.do?guSiGunId=ggpaju&menuNo=1000271",
+  "counts": {
+    "available_5pledge_candidate_documents": 9,
+    "metadata_only_local_candidates": 7,
+    "proportional_party_rows": 22,
+    "proportional_gyeonggi_party_rows": 20,
+    "proportional_paju_party_rows": 2,
+    "opencrab_available_document_nodes_expected": 9,
+    "opencrab_available_document_nodes_found": 9,
+    "opencrab_unjeong2_local_absent_document_nodes_expected": 7,
+    "opencrab_unjeong2_local_absent_document_nodes_absent": 7
+  },
+  "interpretation": {
+    "upload_failure": false,
+    "missing_local_pledge_pdf_reason": "official_source_returned_no_downloadable_pdf_path",
+    "note": "The existing OpenCrab pack correctly contains the 9 available five-pledge documents. This supplement prevents metadata-only races from looking like accidental omissions."
+  }
+}
