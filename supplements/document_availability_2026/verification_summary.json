@@ -1,0 +1,187 @@
+{
+  "generated_at": "2026-05-25T23:21:13.978Z",
+  "source_site": "https://policy.nec.go.kr",
+  "election_name": "제9회 전국동시지방선거",
+  "live_candidate_or_party_rows": 7281,
+  "live_document_status_records": 8657,
+  "counts": {
+    "available_in_original_pack": 6452,
+    "pack_stale_currently_available": 154,
+    "current_unavailable_official_source": 2050,
+    "original_pack_available_but_currently_unavailable": 1
+  },
+  "graph": {
+    "nodes": 4712,
+    "edges": 10678
+  },
+  "summary_by_election": [
+    {
+      "subSgName": "구·시·군의회의원선거",
+      "doc_type": "선거공보",
+      "classification": "available_in_original_pack",
+      "count": 3652
+    },
+    {
+      "subSgName": "시·도의회의원선거",
+      "doc_type": "선거공보",
+      "classification": "available_in_original_pack",
+      "count": 1360
+    },
+    {
+      "subSgName": "구·시·군의회의원선거",
+      "doc_type": "선거공보",
+      "classification": "current_unavailable_official_source",
+      "count": 634
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "5대공약",
+      "classification": "available_in_original_pack",
+      "count": 565
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "선거공보",
+      "classification": "available_in_original_pack",
+      "count": 549
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "선거공약서",
+      "classification": "current_unavailable_official_source",
+      "count": 535
+    },
+    {
+      "subSgName": "기초의원비례대표선거",
+      "doc_type": "비례대표 정당 제출자료",
+      "classification": "current_unavailable_official_source",
+      "count": 439
+    },
+    {
+      "subSgName": "시·도의회의원선거",
+      "doc_type": "선거공보",
+      "classification": "current_unavailable_official_source",
+      "count": 170
+    },
+    {
+      "subSgName": "광역의원비례대표선거",
+      "doc_type": "비례대표 정당 제출자료",
+      "classification": "current_unavailable_official_source",
+      "count": 147
+    },
+    {
+      "subSgName": "구·시·군의회의원선거",
+      "doc_type": "선거공보",
+      "classification": "pack_stale_currently_available",
+      "count": 105
+    },
+    {
+      "subSgName": "교육감선거",
+      "doc_type": "5대공약",
+      "classification": "available_in_original_pack",
+      "count": 58
+    },
+    {
+      "subSgName": "교육감선거",
+      "doc_type": "선거공보",
+      "classification": "available_in_original_pack",
+      "count": 58
+    },
+    {
+      "subSgName": "시·도지사선거",
+      "doc_type": "5대공약",
+      "classification": "available_in_original_pack",
+      "count": 54
+    },
+    {
+      "subSgName": "시·도지사선거",
+      "doc_type": "선거공보",
+      "classification": "available_in_original_pack",
+      "count": 54
+    },
+    {
+      "subSgName": "시·도지사선거",
+      "doc_type": "선거공약서",
+      "classification": "current_unavailable_official_source",
+      "count": 48
+    },
+    {
+      "subSgName": "교육감선거",
+      "doc_type": "선거공약서",
+      "classification": "current_unavailable_official_source",
+      "count": 47
+    },
+    {
+      "subSgName": "국회의원선거",
+      "doc_type": "선거공보",
+      "classification": "available_in_original_pack",
+      "count": 47
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "선거공약서",
+      "classification": "available_in_original_pack",
+      "count": 39
+    },
+    {
+      "subSgName": "시·도의회의원선거",
+      "doc_type": "선거공보",
+      "classification": "pack_stale_currently_available",
+      "count": 38
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "선거공보",
+      "classification": "current_unavailable_official_source",
+      "count": 19
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "5대공약",
+      "classification": "current_unavailable_official_source",
+      "count": 11
+    },
+    {
+      "subSgName": "교육감선거",
+      "doc_type": "선거공약서",
+      "classification": "available_in_original_pack",
+      "count": 10
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "선거공보",
+      "classification": "pack_stale_currently_available",
+      "count": 8
+    },
+    {
+      "subSgName": "시·도지사선거",
+      "doc_type": "선거공약서",
+      "classification": "available_in_original_pack",
+      "count": 6
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "doc_type": "선거공약서",
+      "classification": "pack_stale_currently_available",
+      "count": 2
+    },
+    {
+      "subSgName": "교육감선거",
+      "doc_type": "선거공약서",
+      "classification": "pack_stale_currently_available",
+      "count": 1
+    },
+    {
+      "subSgName": "구·시·군의회의원선거",
+      "doc_type": "선거공보",
+      "classification": "original_pack_available_but_currently_unavailable",
+      "count": 1
+    }
+  ],
+  "interpretation": {
+    "current_unavailable_official_source": "The current official NEC policy API has no downloadable PDF path. Treat as metadata-only unless the source changes.",
+    "pack_stale_currently_available": "The current official NEC policy API has a PDF path, but the earlier OpenCrab pack does not. These need PDF download, Markdown conversion, and re-ingest.",
+    "available_in_original_pack": "The document exists in the original pack and remains available in the current official API.",
+    "original_pack_available_but_currently_unavailable": "The original OpenCrab pack has the document, but the current official NEC policy API no longer exposes a downloadable PDF path."
+  }
+}
