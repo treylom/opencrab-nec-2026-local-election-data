@@ -1,0 +1,661 @@
+{
+  "batch_size": 100,
+  "document_count": 6471,
+  "quality_pass_documents": 5358,
+  "ocr_recovered_documents": 1113,
+  "zip_count": 65,
+  "invalid_zip_count": 0,
+  "required_total_bytes": 31481492,
+  "upload_rows": [
+    {
+      "queue_order": 1,
+      "queued_zip_name": "001_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\001_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 517987,
+      "max_entry_bytes": 27700,
+      "sha256": "31e11d9794d94b061e205bed919480c95888fe911617a39d8d3f31f500188d71",
+      "valid": true
+    },
+    {
+      "queue_order": 2,
+      "queued_zip_name": "002_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\002_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 516164,
+      "max_entry_bytes": 27596,
+      "sha256": "ce7948dda804673622092ec5599aaec5352f3fea4eff5673a456c5ebc3970e98",
+      "valid": true
+    },
+    {
+      "queue_order": 3,
+      "queued_zip_name": "003_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\003_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 543823,
+      "max_entry_bytes": 140835,
+      "sha256": "2a1c4e8023b4b799999321cbc90ebab9dafebc80416745a7320196bc8c93361b",
+      "valid": true
+    },
+    {
+      "queue_order": 4,
+      "queued_zip_name": "004_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\004_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 388376,
+      "max_entry_bytes": 16793,
+      "sha256": "94375b4ab062d1b7395c37dffafafe5d20ff7e7ff9c8d987782c0e8c890a026b",
+      "valid": true
+    },
+    {
+      "queue_order": 5,
+      "queued_zip_name": "005_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\005_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 385904,
+      "max_entry_bytes": 20865,
+      "sha256": "97bda81c3bf8c434c527a96e92d0a85ed70a785603185288d86701a8ed56d96f",
+      "valid": true
+    },
+    {
+      "queue_order": 6,
+      "queued_zip_name": "006_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\006_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 372881,
+      "max_entry_bytes": 20718,
+      "sha256": "28345fc151549bf861e3677d135b6597fa7e9141cca39546719f0eca9e4ae90d",
+      "valid": true
+    },
+    {
+      "queue_order": 7,
+      "queued_zip_name": "007_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\007_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 384701,
+      "max_entry_bytes": 23534,
+      "sha256": "a37686d8db84ea4c555e1a1cfc43d7d6578894c6ac82ebe7050da04548abea04",
+      "valid": true
+    },
+    {
+      "queue_order": 8,
+      "queued_zip_name": "008_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\008_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 402723,
+      "max_entry_bytes": 72723,
+      "sha256": "729cd8bdd8d266f17cec2999af0ab99f82d3132e1e60141804ec3e114b7da13d",
+      "valid": true
+    },
+    {
+      "queue_order": 9,
+      "queued_zip_name": "009_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\009_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 697212,
+      "max_entry_bytes": 48316,
+      "sha256": "ca15d59642cbf147ee2d465779f4ae1566e173a93c3d7b38a62a837d6dff5f31",
+      "valid": true
+    },
+    {
+      "queue_order": 10,
+      "queued_zip_name": "010_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\010_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 643329,
+      "max_entry_bytes": 28196,
+      "sha256": "d9a66aa6e2da4c59ddba797c1835306613772bcc5c488bb8ecc47d62ec09ba85",
+      "valid": true
+    },
+    {
+      "queue_order": 11,
+      "queued_zip_name": "011_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\011_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 662062,
+      "max_entry_bytes": 42339,
+      "sha256": "9c3b0df1f5e51fac99c49a28e2ab89d7e52f4886c2ed449ab746e7a899cedbde",
+      "valid": true
+    },
+    {
+      "queue_order": 12,
+      "queued_zip_name": "012_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\012_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 717786,
+      "max_entry_bytes": 42808,
+      "sha256": "700facb98ad4f2b5b6155b50a787ab3dd8efe196662fc774b9722e724a414056",
+      "valid": true
+    },
+    {
+      "queue_order": 13,
+      "queued_zip_name": "013_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\013_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 553826,
+      "max_entry_bytes": 56777,
+      "sha256": "c299afe243e049e4c21a4ef4955688a9388282d7ab3c3c78e593664004429ab3",
+      "valid": true
+    },
+    {
+      "queue_order": 14,
+      "queued_zip_name": "014_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\014_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 459127,
+      "max_entry_bytes": 27360,
+      "sha256": "bc1d720f1852a9ca1dbe03662c40ac93fb94a44b29fab870068522bb3013aa26",
+      "valid": true
+    },
+    {
+      "queue_order": 15,
+      "queued_zip_name": "015_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\015_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 469657,
+      "max_entry_bytes": 25357,
+      "sha256": "bc0ada37fbfc4ab6e51112c438407d1b794167b28c078a1d9d13769ee61c1fcc",
+      "valid": true
+    },
+    {
+      "queue_order": 16,
+      "queued_zip_name": "016_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\016_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 496856,
+      "max_entry_bytes": 23021,
+      "sha256": "9796a29aedadef6111cb515c8465f2ed5736d9409783b37ac414e64e406bfd84",
+      "valid": true
+    },
+    {
+      "queue_order": 17,
+      "queued_zip_name": "017_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\017_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 485123,
+      "max_entry_bytes": 26763,
+      "sha256": "e89585d2d3891113dc4a8b84c8d7e8e56740c5b9b192b0c9f60b38e9dff03448",
+      "valid": true
+    },
+    {
+      "queue_order": 18,
+      "queued_zip_name": "018_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\018_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 477534,
+      "max_entry_bytes": 25122,
+      "sha256": "c47b0a5b6374001f13d71f6d4347abbb80702e855bc7f9ff33dcc2b770a306f7",
+      "valid": true
+    },
+    {
+      "queue_order": 19,
+      "queued_zip_name": "019_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\019_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 499072,
+      "max_entry_bytes": 23691,
+      "sha256": "c145ee19e053c45c1848dfe6e47232696b2b5ba77f49d125e67e7c16989d03a7",
+      "valid": true
+    },
+    {
+      "queue_order": 20,
+      "queued_zip_name": "020_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\020_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 493661,
+      "max_entry_bytes": 28704,
+      "sha256": "d51bd9cbd964e3b6ea1e6eeefb22d603dbc23b14c7e5e9a3d83308500299e6c3",
+      "valid": true
+    },
+    {
+      "queue_order": 21,
+      "queued_zip_name": "021_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\021_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 467511,
+      "max_entry_bytes": 22277,
+      "sha256": "166b59eb73ded6156fb86ccc6ed39299dfafb66e87affc480f9c73ba65e5db7a",
+      "valid": true
+    },
+    {
+      "queue_order": 22,
+      "queued_zip_name": "022_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\022_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 486349,
+      "max_entry_bytes": 24707,
+      "sha256": "18cc7fbf9ed36fd5bd06597038cd2e046f894494ea656d920d7d106cc94555d9",
+      "valid": true
+    },
+    {
+      "queue_order": 23,
+      "queued_zip_name": "023_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\023_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 467553,
+      "max_entry_bytes": 23953,
+      "sha256": "2ff7738aedc2bdc100a6025fddd8273d9d74e36c8e5bcdc896203b47a86647c9",
+      "valid": true
+    },
+    {
+      "queue_order": 24,
+      "queued_zip_name": "024_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\024_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 469870,
+      "max_entry_bytes": 24180,
+      "sha256": "013f75dc44346adc938757497a4602745ed6e183c89510b481988f7bdafe2749",
+      "valid": true
+    },
+    {
+      "queue_order": 25,
+      "queued_zip_name": "025_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\025_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 441194,
+      "max_entry_bytes": 23070,
+      "sha256": "ec7a59781da63ab51ad56c5819935c24337b2f7d7a7f4b4931fff0598effca21",
+      "valid": true
+    },
+    {
+      "queue_order": 26,
+      "queued_zip_name": "026_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\026_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 431980,
+      "max_entry_bytes": 53735,
+      "sha256": "774013610c3932c3b643ae0354facac0099d8ab19d81ee8f6e5824b452b5a818",
+      "valid": true
+    },
+    {
+      "queue_order": 27,
+      "queued_zip_name": "027_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\027_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 406814,
+      "max_entry_bytes": 25301,
+      "sha256": "e8704d7ccf68187156913d681c8b664c8007f2ffdd4ee3c32530d97022c5af63",
+      "valid": true
+    },
+    {
+      "queue_order": 28,
+      "queued_zip_name": "028_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\028_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 441572,
+      "max_entry_bytes": 22716,
+      "sha256": "264aa6910c2afde571ed941a7e4294059239546068fffc3bf3f8b3b2a0216c48",
+      "valid": true
+    },
+    {
+      "queue_order": 29,
+      "queued_zip_name": "029_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\029_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 442933,
+      "max_entry_bytes": 42982,
+      "sha256": "a96a6a48bea4cf3b75ca2c271c3b7635933a69111368c02a345de6d3a991fee5",
+      "valid": true
+    },
+    {
+      "queue_order": 30,
+      "queued_zip_name": "030_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\030_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 431310,
+      "max_entry_bytes": 27967,
+      "sha256": "4f12481246f16117884b238e5bd05e3505a5d71bd2cf168334a24a9454328240",
+      "valid": true
+    },
+    {
+      "queue_order": 31,
+      "queued_zip_name": "031_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\031_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 435040,
+      "max_entry_bytes": 22445,
+      "sha256": "3c92ed28f80695331415069c5c1636608615bae7ea0b1cd7d737114257d0ad7b",
+      "valid": true
+    },
+    {
+      "queue_order": 32,
+      "queued_zip_name": "032_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\032_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 421915,
+      "max_entry_bytes": 21009,
+      "sha256": "a86bf0bd15a77532d9e0389217da4213de013ab60112cd32ba22a0438130f0f0",
+      "valid": true
+    },
+    {
+      "queue_order": 33,
+      "queued_zip_name": "033_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\033_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 449202,
+      "max_entry_bytes": 22684,
+      "sha256": "e5e00d1a98d22afe7702eec965a3041b14aa33311e4e65370ad451a1dcd56d5a",
+      "valid": true
+    },
+    {
+      "queue_order": 34,
+      "queued_zip_name": "034_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\034_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 433173,
+      "max_entry_bytes": 33101,
+      "sha256": "6fd105bea7aaad59330658937015c598e4c4d15befb7b386af32df71928a3b8f",
+      "valid": true
+    },
+    {
+      "queue_order": 35,
+      "queued_zip_name": "035_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\035_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 441736,
+      "max_entry_bytes": 25716,
+      "sha256": "16df292e5fad19605a61a69500e8bb376fe3a052b0bdd528f59e6d1efd320576",
+      "valid": true
+    },
+    {
+      "queue_order": 36,
+      "queued_zip_name": "036_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\036_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 448103,
+      "max_entry_bytes": 24699,
+      "sha256": "50b4e3d482b681ec264f281f2d8e5e870779c07738f41291e0cc037d49939619",
+      "valid": true
+    },
+    {
+      "queue_order": 37,
+      "queued_zip_name": "037_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\037_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 433165,
+      "max_entry_bytes": 21510,
+      "sha256": "e474184bdd6af1136417d61390aa9afe37a46644d37e94a94d020d8a2ee459de",
+      "valid": true
+    },
+    {
+      "queue_order": 38,
+      "queued_zip_name": "038_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\038_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 433277,
+      "max_entry_bytes": 142617,
+      "sha256": "f0a970fee124c1ef5af286aea12e7af52cbd94c0b48e4926d3ddb2b20a1733ed",
+      "valid": true
+    },
+    {
+      "queue_order": 39,
+      "queued_zip_name": "039_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\039_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 435346,
+      "max_entry_bytes": 19052,
+      "sha256": "12dbac41cb5ab57de7863d39b22e1f8d5aa070967b3f741fd21ae635b437589d",
+      "valid": true
+    },
+    {
+      "queue_order": 40,
+      "queued_zip_name": "040_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\040_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 449484,
+      "max_entry_bytes": 55873,
+      "sha256": "4092b1c9901efa8922a3cf1984f348432790603362ef3197caa007117189a779",
+      "valid": true
+    },
+    {
+      "queue_order": 41,
+      "queued_zip_name": "041_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\041_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 460279,
+      "max_entry_bytes": 89008,
+      "sha256": "3c6002eae712dfac2bb4bb16d89c62db0c873d743121c2f2b41ba6081b08105a",
+      "valid": true
+    },
+    {
+      "queue_order": 42,
+      "queued_zip_name": "042_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\042_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 436101,
+      "max_entry_bytes": 19013,
+      "sha256": "f5d85d5c1f7948d39c21f90919282998f71d5c2deb52a2adb5cef917f0686633",
+      "valid": true
+    },
+    {
+      "queue_order": 43,
+      "queued_zip_name": "043_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\043_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 452797,
+      "max_entry_bytes": 25841,
+      "sha256": "e94533f550fe46169f37cb9c69789db47142840687877b53194d98b8636c2eb4",
+      "valid": true
+    },
+    {
+      "queue_order": 44,
+      "queued_zip_name": "044_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\044_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 450307,
+      "max_entry_bytes": 22583,
+      "sha256": "56ecfde0a119f0c1e3001727996272ce6798b439fa967f6b75dfecc3955669de",
+      "valid": true
+    },
+    {
+      "queue_order": 45,
+      "queued_zip_name": "045_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\045_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 436627,
+      "max_entry_bytes": 23945,
+      "sha256": "354621e05296faceb77faf5f0b6a2979e7440b0cc8cd2fad9f6c02943ba7d42b",
+      "valid": true
+    },
+    {
+      "queue_order": 46,
+      "queued_zip_name": "046_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\046_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 465789,
+      "max_entry_bytes": 103999,
+      "sha256": "63a7267c44115b3e61e7df9df1ab220d57eb39f79dc208c1e1da8526af9c2538",
+      "valid": true
+    },
+    {
+      "queue_order": 47,
+      "queued_zip_name": "047_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\047_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 446958,
+      "max_entry_bytes": 103274,
+      "sha256": "146ced3c8504c0c6272066730fce162b9339f6058980e6ff2f088024651d97d4",
+      "valid": true
+    },
+    {
+      "queue_order": 48,
+      "queued_zip_name": "048_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\048_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 450490,
+      "max_entry_bytes": 20110,
+      "sha256": "611dba9aebe29aa889ad04696890d5dc27e696345386990dd6f5a9440984d6e4",
+      "valid": true
+    },
+    {
+      "queue_order": 49,
+      "queued_zip_name": "049_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\049_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 447231,
+      "max_entry_bytes": 24894,
+      "sha256": "e69ab3fbd8bb085e05132fed66785074e84d3ebbeb0efb6df06fdab1f2f85be9",
+      "valid": true
+    },
+    {
+      "queue_order": 50,
+      "queued_zip_name": "050_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\050_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 425951,
+      "max_entry_bytes": 48181,
+      "sha256": "492c21bfba5b1705cf3c0b8480c2e1b4697e4c87dccced73adfc8e5795322f2d",
+      "valid": true
+    },
+    {
+      "queue_order": 51,
+      "queued_zip_name": "051_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\051_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 424025,
+      "max_entry_bytes": 24325,
+      "sha256": "95bb2f5088a64d8174b1e74f05cdb6d56d79c3e218e817cfc6cd602ba4f61598",
+      "valid": true
+    },
+    {
+      "queue_order": 52,
+      "queued_zip_name": "052_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\052_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 435107,
+      "max_entry_bytes": 92563,
+      "sha256": "e6f48fcdbcca5e325a581022505480452c4b2d42c46c62f151f3eee177378b50",
+      "valid": true
+    },
+    {
+      "queue_order": 53,
+      "queued_zip_name": "053_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\053_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 394668,
+      "max_entry_bytes": 42506,
+      "sha256": "1016b05a2e38d68ed4d7934e23e901e07bb90774c95d83fe39968aa871aa991e",
+      "valid": true
+    },
+    {
+      "queue_order": 54,
+      "queued_zip_name": "054_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\054_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 1688065,
+      "max_entry_bytes": 4499989,
+      "sha256": "578bacbf76ff5e6569db26d8987254cd45908b7b84c232940c3cae99cbcd16fd",
+      "valid": true
+    },
+    {
+      "queue_order": 55,
+      "queued_zip_name": "055_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\055_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 480575,
+      "max_entry_bytes": 20345,
+      "sha256": "71df9650d44e123e7ac728c170adc7e496643e258b02aae98310679dd3435760",
+      "valid": true
+    },
+    {
+      "queue_order": 56,
+      "queued_zip_name": "056_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\056_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 452325,
+      "max_entry_bytes": 20085,
+      "sha256": "741707d7240dfcc5513f23065f4dce938d726c6d9a66b08638a363e4da878f91",
+      "valid": true
+    },
+    {
+      "queue_order": 57,
+      "queued_zip_name": "057_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\057_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 464385,
+      "max_entry_bytes": 22472,
+      "sha256": "a40d1ebb32004a10d766d79fec41a8359f642c42b7cdaf28c508499424308a90",
+      "valid": true
+    },
+    {
+      "queue_order": 58,
+      "queued_zip_name": "058_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\058_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 475305,
+      "max_entry_bytes": 16520,
+      "sha256": "966f0a501062bdf397ccc88c36b2c01c54b5ae05ac464af9a4bc07240164b11b",
+      "valid": true
+    },
+    {
+      "queue_order": 59,
+      "queued_zip_name": "059_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\059_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 477154,
+      "max_entry_bytes": 21018,
+      "sha256": "589577bdbeaaee0991722522822e0fb8c3f1d817596903dbe8536b0296f97e4d",
+      "valid": true
+    },
+    {
+      "queue_order": 60,
+      "queued_zip_name": "060_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\060_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 452432,
+      "max_entry_bytes": 38689,
+      "sha256": "f11762aa870acf471d269d85a69c0c8a1f6834a226fa8c9215ebbd89ed437a76",
+      "valid": true
+    },
+    {
+      "queue_order": 61,
+      "queued_zip_name": "061_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\061_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 473210,
+      "max_entry_bytes": 19065,
+      "sha256": "6b9e902c041e0ddb58b403e5a178daae7fdc7aebc96d4139ee12221d4afc2703",
+      "valid": true
+    },
+    {
+      "queue_order": 62,
+      "queued_zip_name": "062_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\062_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 478857,
+      "max_entry_bytes": 18517,
+      "sha256": "092ae76ac94087c401d8936b772e72f56a574692b1b0d913a84baaf3ad9891a5",
+      "valid": true
+    },
+    {
+      "queue_order": 63,
+      "queued_zip_name": "063_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\063_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 497410,
+      "max_entry_bytes": 38883,
+      "sha256": "73c55100e826c16245a7b7fa30767b3cd2c69b0813c87d9f3d9b1de1b8deee73",
+      "valid": true
+    },
+    {
+      "queue_order": 64,
+      "queued_zip_name": "064_data_docs_100.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\064_data_docs_100.zip",
+      "entries": 100,
+      "bytes": 496128,
+      "max_entry_bytes": 45768,
+      "sha256": "015b74e8d955fa59acaf1e2079a109d763c1bc280cc303152dac1a4d0d3a662b",
+      "valid": true
+    },
+    {
+      "queue_order": 65,
+      "queued_zip_name": "065_data_docs_071.zip",
+      "queued_zip": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\opencrab_upload_queue_small_batches\\required_upload_in_order\\065_data_docs_071.zip",
+      "entries": 71,
+      "bytes": 283985,
+      "max_entry_bytes": 17670,
+      "sha256": "e174c40983265318d5fe3d566bd6cab6facb21909437941dad702678d5604bb6",
+      "valid": true
+    }
+  ]
+}
