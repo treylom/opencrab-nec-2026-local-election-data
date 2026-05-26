@@ -1,0 +1,15 @@
+{
+  "targets": 596,
+  "downloadable": 596,
+  "extract_ok": 595,
+  "empty_text": 1,
+  "extract_errors": 0,
+  "missing_pdf": 0,
+  "quality_flags": {
+    "empty_text": 1,
+    "ok": 495,
+    "suspiciously_short_text": 100
+  },
+  "total_pages": 2967,
+  "total_chars": 941039
+}

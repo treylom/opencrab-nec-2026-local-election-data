@@ -1,0 +1,82 @@
+{
+  "generated_at": "2026-05-25T23:58:45.066Z",
+  "source_site": "https://policy.nec.go.kr",
+  "election_name": "제9회 전국동시지방선거",
+  "live_rows": 7318,
+  "document_status_records": 8694,
+  "regions": [
+    {
+      "province_id": "1100",
+      "province_name": "서울특별시"
+    },
+    {
+      "province_id": "2900",
+      "province_name": "전남광주통합특별시"
+    },
+    {
+      "province_id": "2600",
+      "province_name": "부산광역시"
+    },
+    {
+      "province_id": "2700",
+      "province_name": "대구광역시"
+    },
+    {
+      "province_id": "2800",
+      "province_name": "인천광역시"
+    },
+    {
+      "province_id": "3000",
+      "province_name": "대전광역시"
+    },
+    {
+      "province_id": "3100",
+      "province_name": "울산광역시"
+    },
+    {
+      "province_id": "5100",
+      "province_name": "세종특별자치시"
+    },
+    {
+      "province_id": "4100",
+      "province_name": "경기도"
+    },
+    {
+      "province_id": "5200",
+      "province_name": "강원특별자치도"
+    },
+    {
+      "province_id": "4300",
+      "province_name": "충청북도"
+    },
+    {
+      "province_id": "4400",
+      "province_name": "충청남도"
+    },
+    {
+      "province_id": "5300",
+      "province_name": "전북특별자치도"
+    },
+    {
+      "province_id": "4700",
+      "province_name": "경상북도"
+    },
+    {
+      "province_id": "4800",
+      "province_name": "경상남도"
+    },
+    {
+      "province_id": "4900",
+      "province_name": "제주특별자치도"
+    }
+  ],
+  "counts": {
+    "available_in_original_pack": 6452,
+    "pack_stale_currently_available": 596,
+    "current_unavailable_official_source": 1645,
+    "original_pack_available_but_currently_unavailable": 1,
+    "province_unresolved_targets": 0,
+    "province_work_units": 18
+  },
+  "note": "This inventory recognizes proportional PDFs exposed through filePathName + updtFileName, which the earlier availability supplement did not treat as a downloadable PDF path."
+}

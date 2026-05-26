@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-05-26T00:51:55.431Z",
+  "inventory_counts": {
+    "available_in_original_pack": 6452,
+    "pack_stale_currently_available": 596,
+    "current_unavailable_official_source": 1645,
+    "original_pack_available_but_currently_unavailable": 1,
+    "province_unresolved_targets": 0,
+    "province_work_units": 18
+  },
+  "current_missing_after_official_search": 1645,
+  "direct_nec_recovered_documents": 596,
+  "external_official_documents_recovered": 0,
+  "official_hits_written_by_agents": 428,
+  "official_hits_structured_no_public_file": 428,
+  "markdown_summary": {
+    "targets": 596,
+    "downloadable": 596,
+    "extract_ok": 595,
+    "empty_text": 1,
+    "extract_errors": 0,
+    "missing_pdf": 0,
+    "quality_flags": {
+      "empty_text": 1,
+      "ok": 495,
+      "suspiciously_short_text": 100
+    },
+    "total_pages": 2967,
+    "total_chars": 941039
+  },
+  "graph": {
+    "nodes": 4793,
+    "edges": 22132,
+    "dangling_edges": 0,
+    "relation_counts": {
+      "CHECKED_OFFICIAL_SOURCE": 23,
+      "HAS_PROVINCE_WORK_UNIT": 18,
+      "CONTAINS_CONTEST_REGION": 948,
+      "DOCUMENT_IN_PROVINCE": 596,
+      "DOCUMENT_FOR_CONTEST_REGION": 596,
+      "DOCUMENT_AFFILIATED_WITH_PARTY": 596,
+      "RUNS_IN_CONTEST_REGION": 1581,
+      "DOCUMENT_FOR_CANDIDATE": 154,
+      "AFFILIATED_WITH_PARTY": 1581,
+      "HAS_RECOVERED_DOCUMENT": 596,
+      "RECOVERED_FROM_OFFICIAL_SOURCE": 596,
+      "HAS_RECOVERY_STATUS": 2241,
+      "HAS_EXTRACTION_QUALITY": 596,
+      "PARTY_SUBMITS_FOR_CONTEST_REGION": 586,
+      "MISSING_TARGET_IN_PROVINCE": 1645,
+      "MISSING_TARGET_FOR_CONTEST_REGION": 1645,
+      "MISSING_TARGET_AFFILIATED_WITH_PARTY": 1645,
+      "MISSING_TARGET_FOR_CANDIDATE": 1464,
+      "HAS_UNRECOVERED_OFFICIAL_TARGET": 1645,
+      "OFFICIAL_RECORD_FROM_SOURCE": 1645,
+      "HAS_EXTERNAL_SEARCH_RESULT": 1645,
+      "HAS_REGIONAL_REVIEW": 18,
+      "REVIEWS_PROVINCE": 18,
+      "USED_OFFICIAL_SOURCE": 18,
+      "CHECKED_OFFICIAL_SOURCE_CLASS": 36
+    },
+    "node_type_counts": {
+      "OfficialGapRecoverySupplement": 1,
+      "OfficialSource": 3,
+      "OfficialSourceClass": 2,
+      "RecoveryStatus": 3,
+      "ExtractionQuality": 3,
+      "RecoveredOfficialDocument": 596,
+      "ProvinceWorkUnit": 18,
+      "ContestRegion": 898,
+      "Party": 25,
+      "Candidate": 1581,
+      "OfficialDocumentTargetWithoutPublicFile": 1645,
+      "OfficialSourceReview": 18
+    }
+  },
+  "official_only_policy": {
+    "unofficial_sources_accepted": 0,
+    "accepted_domains": [
+      "policy.nec.go.kr",
+      "data.go.kr",
+      "*.nec.go.kr",
+      "*.go.kr"
+    ]
+  }
+}
