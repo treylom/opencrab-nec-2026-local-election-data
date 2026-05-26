@@ -28,9 +28,14 @@ Important correction: proportional election PDFs can be exposed through `filePat
 - `graph/nodes.jsonl` and `graph/edges.jsonl`: graph pack ontology.
 - `direct_nec_downloads/markdown/*.md`: recovered PDF text.
 - `direct_nec_downloads/quality_report.md`: extraction and visual sample check.
+- `cloud_pack/manifest.json`: OpenCrab Cloud Pack manifest (`opencrab-cloud-pack-v1`).
+- `cloud_pack/cloud/documents.jsonl`: 596 recovered Markdown source documents.
+- `cloud_pack/cloud/chunks.jsonl`: 3,563 source chunks generated from the recovered Markdown.
+- `cloud_pack/graph/nodes.jsonl` and `cloud_pack/graph/edges.jsonl`: graph content bundled with the Cloud Pack.
 
 Local ZIP artifacts are intentionally ignored by git:
 
+- `opencrab_official_gap_recovery_cloud_pack.zip`
 - `opencrab_official_gap_recovery_graph_pack.zip`
 - `opencrab_official_gap_recovery_markdown_part_01.zip`
 - `opencrab_official_gap_recovery_markdown_part_02.zip`

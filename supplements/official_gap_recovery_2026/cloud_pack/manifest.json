@@ -1,0 +1,15 @@
+{
+  "format": "opencrab-cloud-pack-v1",
+  "title": "official-gap-recovery-2026-nec-local-election",
+  "version": "2026-05-26.1",
+  "created_at": "2026-05-26T01:26:56.562Z",
+  "source": "https://policy.nec.go.kr/",
+  "repository": "https://github.com/treylom/opencrab-nec-2026-local-election-data",
+  "counts": {
+    "documents": 596,
+    "chunks": 3563,
+    "nodes": 4793,
+    "edges": 22132
+  },
+  "notes": "Official NEC recovered PDFs converted to Markdown, plus gap-recovery graph nodes and edges."
+}
