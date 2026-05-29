@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-05-29T08:15:25.870Z",
+  "recheck_date_kst": "2026-05-29",
+  "source_site": "https://policy.nec.go.kr",
+  "original_missing_rechecked": 1645,
+  "newly_available_documents": 146,
+  "cloud_pack_documents": 146,
+  "cloud_pack_chunks": 260,
+  "graph_nodes": 375,
+  "graph_edges": 1322,
+  "dangling_edges": 0,
+  "by_election": {
+    "시·도지사선거": 4,
+    "구·시·군의 장선거": 18,
+    "시·도의회의원선거": 22,
+    "구·시·군의회의원선거": 85,
+    "기초의원비례대표선거": 14,
+    "교육감선거": 3
+  },
+  "by_doc_type": {
+    "선거공약서": 15,
+    "선거공보": 117,
+    "비례대표 정당 제출자료": 14
+  },
+  "extraction_quality": {
+    "ok": 104,
+    "ocr_recovered": 42
+  }
+}

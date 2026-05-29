@@ -1,0 +1,215 @@
+{
+  "summary": {
+    "generated_at": "2026-05-29T07:48:29.298Z",
+    "recheck_date_kst": "2026-05-29",
+    "source_site": "https://policy.nec.go.kr",
+    "endpoint": "/plc/commiment/initUCACommimentList.do",
+    "previous_missing_count": 1645,
+    "current_live_candidate_party_rows": 7382,
+    "current_document_slots_seen": 8705,
+    "counts": {
+      "newly_available_on_nec": 146,
+      "still_no_public_file_on_nec": 1490,
+      "not_found_in_current_nec_listing": 9
+    },
+    "output_files": {
+      "newly_available_on_nec": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\newly_available_on_nec.csv",
+      "still_unavailable_on_nec": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\still_unavailable_on_nec.csv",
+      "not_found_in_current_nec_listing": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\not_found_in_current_nec_listing.csv"
+    }
+  },
+  "newly_by_election": [
+    {
+      "subSgName": "구·시·군의회의원선거",
+      "count": 85
+    },
+    {
+      "subSgName": "시·도의회의원선거",
+      "count": 22
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "count": 18
+    },
+    {
+      "subSgName": "기초의원비례대표선거",
+      "count": 14
+    },
+    {
+      "subSgName": "시·도지사선거",
+      "count": 4
+    },
+    {
+      "subSgName": "교육감선거",
+      "count": 3
+    }
+  ],
+  "newly_by_doc_type": [
+    {
+      "doc_type": "선거공보",
+      "count": 117
+    },
+    {
+      "doc_type": "선거공약서",
+      "count": 15
+    },
+    {
+      "doc_type": "비례대표 정당 제출자료",
+      "count": 14
+    }
+  ],
+  "still_by_election": [
+    {
+      "subSgName": "구·시·군의회의원선거",
+      "count": 548
+    },
+    {
+      "subSgName": "구·시·군의 장선거",
+      "count": 541
+    },
+    {
+      "subSgName": "기초의원비례대표선거",
+      "count": 151
+    },
+    {
+      "subSgName": "시·도의회의원선거",
+      "count": 148
+    },
+    {
+      "subSgName": "교육감선거",
+      "count": 44
+    },
+    {
+      "subSgName": "시·도지사선거",
+      "count": 42
+    },
+    {
+      "subSgName": "광역의원비례대표선거",
+      "count": 16
+    }
+  ],
+  "still_by_doc_type": [
+    {
+      "doc_type": "선거공보",
+      "count": 705
+    },
+    {
+      "doc_type": "선거공약서",
+      "count": 607
+    },
+    {
+      "doc_type": "비례대표 정당 제출자료",
+      "count": 167
+    },
+    {
+      "doc_type": "5대공약",
+      "count": 11
+    }
+  ],
+  "not_found_by_election": [
+    {
+      "subSgName": "구·시·군의 장선거",
+      "count": 6
+    },
+    {
+      "subSgName": "시·도지사선거",
+      "count": 2
+    },
+    {
+      "subSgName": "구·시·군의회의원선거",
+      "count": 1
+    }
+  ],
+  "not_found_samples": [
+    {
+      "source_id": "candidate-doc:100153854:2",
+      "subSgName": "시·도지사선거",
+      "province_name": "울산광역시",
+      "sggname": "울산광역시",
+      "huboid": "100153854",
+      "hbjname": "김종훈",
+      "jdname": "진보당",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100153781:2",
+      "subSgName": "시·도지사선거",
+      "province_name": "경상남도",
+      "sggname": "경상남도",
+      "huboid": "100153781",
+      "hbjname": "전희영",
+      "jdname": "진보당",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100163321:2",
+      "subSgName": "구·시·군의 장선거",
+      "province_name": "인천광역시",
+      "sggname": "강화군",
+      "huboid": "100163321",
+      "hbjname": "문경신",
+      "jdname": "무소속",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100154367:2",
+      "subSgName": "구·시·군의 장선거",
+      "province_name": "대전광역시",
+      "sggname": "서구",
+      "huboid": "100154367",
+      "hbjname": "유지곤",
+      "jdname": "조국혁신당",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100161966:2",
+      "subSgName": "구·시·군의 장선거",
+      "province_name": "경기도",
+      "sggname": "연천군",
+      "huboid": "100161966",
+      "hbjname": "송병서",
+      "jdname": "무소속",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100159999:2",
+      "subSgName": "구·시·군의 장선거",
+      "province_name": "충청남도",
+      "sggname": "홍성군",
+      "huboid": "100159999",
+      "hbjname": "이두원",
+      "jdname": "무소속",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100156517:2",
+      "subSgName": "구·시·군의 장선거",
+      "province_name": "전라남도",
+      "sggname": "여수시",
+      "huboid": "100156517",
+      "hbjname": "김창주",
+      "jdname": "무소속",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100155891:2",
+      "subSgName": "구·시·군의 장선거",
+      "province_name": "경상남도",
+      "sggname": "김해시",
+      "huboid": "100155891",
+      "hbjname": "박봉열",
+      "jdname": "진보당",
+      "doc_type": "선거공약서"
+    },
+    {
+      "source_id": "candidate-doc:100165714:1",
+      "subSgName": "구·시·군의회의원선거",
+      "province_name": "서울특별시",
+      "sggname": "금천구나선거구",
+      "huboid": "100165714",
+      "hbjname": "김선주",
+      "jdname": "무소속",
+      "doc_type": "선거공보"
+    }
+  ]
+}

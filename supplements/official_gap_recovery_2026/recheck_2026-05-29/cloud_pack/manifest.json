@@ -1,0 +1,15 @@
+{
+  "format": "opencrab-cloud-pack-v1",
+  "title": "nec-2026-local-election-newly-available-official-documents",
+  "version": "2026-05-29.1",
+  "created_at": "2026-05-29T08:15:25.870Z",
+  "source": "https://policy.nec.go.kr/",
+  "repository": "https://github.com/treylom/opencrab-nec-2026-local-election-data",
+  "counts": {
+    "documents": 146,
+    "chunks": 260,
+    "nodes": 375,
+    "edges": 1322
+  },
+  "notes": "146 documents previously missing from the OpenCrab NEC 2026 local-election pack became available on the official NEC policy site and were converted to Markdown."
+}

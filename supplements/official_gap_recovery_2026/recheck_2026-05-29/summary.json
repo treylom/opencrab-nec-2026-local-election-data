@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-05-29T07:48:29.298Z",
+  "recheck_date_kst": "2026-05-29",
+  "source_site": "https://policy.nec.go.kr",
+  "endpoint": "/plc/commiment/initUCACommimentList.do",
+  "previous_missing_count": 1645,
+  "current_live_candidate_party_rows": 7382,
+  "current_document_slots_seen": 8705,
+  "counts": {
+    "newly_available_on_nec": 146,
+    "still_no_public_file_on_nec": 1490,
+    "not_found_in_current_nec_listing": 9
+  },
+  "output_files": {
+    "newly_available_on_nec": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\newly_available_on_nec.csv",
+    "still_unavailable_on_nec": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\still_unavailable_on_nec.csv",
+    "not_found_in_current_nec_listing": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\not_found_in_current_nec_listing.csv"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "targets": 146,
+  "downloadable": 146,
+  "extract_ok": 146,
+  "empty_text": 0,
+  "extract_errors": 0,
+  "missing_pdf": 0,
+  "quality_flags": {
+    "ocr_recovered": 42,
+    "ok": 104
+  },
+  "total_pages": 968,
+  "total_chars": 483541,
+  "ocr_merged": 42,
+  "ocr_results_csv": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\ocr_recovery\\ocr_results_recheck_20260529.csv"
+}
