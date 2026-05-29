@@ -1,0 +1,15 @@
+{
+  "format": "opencrab-cloud-pack-v1",
+  "title": "nec-2026-local-election-newly-available-official-candidate-documents-corrected",
+  "version": "2026-05-29.2",
+  "created_at": "2026-05-29T08:32:35.208494Z",
+  "source": "https://policy.nec.go.kr/",
+  "repository": "https://github.com/treylom/opencrab-nec-2026-local-election-data",
+  "counts": {
+    "documents": 132,
+    "chunks": 209,
+    "nodes": 356,
+    "edges": 1243
+  },
+  "notes": "Corrected supplement containing 132 candidate/election-office documents. Fourteen party-list documents from the previous 146-document batch were excluded because cross-province matching and filename collisions made them unsafe."
+}

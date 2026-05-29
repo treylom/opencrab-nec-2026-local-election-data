@@ -1,0 +1,13 @@
+{
+  "generated_at": "2026-05-29T08:32:35.208494Z",
+  "valid_candidate_documents": 132,
+  "excluded_party_documents": 14,
+  "cloud_pack_documents": 132,
+  "cloud_pack_chunks": 209,
+  "graph_nodes": 356,
+  "graph_edges": 1243,
+  "zip_path": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\opencrab_nec_recheck_candidate_only_corrected_cloud_pack.zip",
+  "zip_bytes": 524948,
+  "zip_sha256": "a0f2fde4493c98b44ee62f1b3bcf8a280217aa942f83cdcd7bdb95b8e2b4ec36",
+  "excluded_manifest": "C:\\Users\\treyl\\Documents\\Obsidian\\Second_Brain\\output\\nec_2026_local_election_opencrab\\github_repo_nec_2026_local_election_opencrab\\supplements\\official_gap_recovery_2026\\recheck_2026-05-29\\excluded_party_document_mismatch.csv"
+}
